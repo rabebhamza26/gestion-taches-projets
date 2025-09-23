@@ -1,0 +1,3 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Utilisateur		TAR	222	nouvelle taille enregistrement : 222
+Utilisateur	Role	CNW	Entier non signé sur 1 octet$Chaîne	la rubrique Role a pour nouveau type Entier non signé sur 1 octet

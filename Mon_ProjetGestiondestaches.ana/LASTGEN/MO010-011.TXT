@@ -1,0 +1,5 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+inscription		TAR	72	nouvelle taille enregistrement : 72
+inscription	Mot_De_Passe	RDP+		
+inscription	Email	CNW	Chaîne$Mémo texte	la rubrique Email a pour nouveau type Chaîne
+inscription	Email	RRM		

@@ -1,0 +1,4 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Tache		NFI		nouveau fichier
+Tache	Type	RRN		
+Tache	Etat	RRN		

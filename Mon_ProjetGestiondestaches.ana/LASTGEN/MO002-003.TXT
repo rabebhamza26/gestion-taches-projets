@@ -1,0 +1,4 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+inscription		FCNX+	Connexion HFSQL Classic	
+Connexion HFSQL Classic		CNX+		
+Connexion HFSQL Classic		CNX+		

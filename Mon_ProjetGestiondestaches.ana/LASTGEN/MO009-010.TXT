@@ -1,0 +1,4 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+Tache		TAR	97	nouvelle taille enregistrement : 97
+Tache	IDUtilisateurassigné	NNR	IDEmploye	ATTENTION : la clé IDEmploye a pour nouveau nom IDUtilisateurassigné
+Tache	IDutilisateursignataire	RUB+		IDutilisateursignataire est une nouvelle clé

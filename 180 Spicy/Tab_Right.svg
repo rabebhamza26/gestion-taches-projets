@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="48px" height="24px" viewBox="0 0 48 24" enable-background="new 0 0 48 24" xml:space="preserve">
+<rect y="1" fill="#C0C0C0" width="22" height="22"/>
+<rect x="24" fill="#C0C0C0" width="24.001" height="24"/>
+<rect y="2" fill="#F01B57" width="21" height="20"/>
+<rect x="24" y="1" fill="#D31147" width="23" height="22"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-895.5" y1="23.001" x2="-895.5" y2="0.8939" gradientTransform="matrix(-1 0 0 -1 -860 24)">
+	<stop  offset="0" style="stop-color:#F01B57"/>
+	<stop  offset="1" style="stop-color:#D31147"/>
+</linearGradient>
+<rect x="24" y="1" fill="url(#SVGID_1_)" width="23" height="22"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-833.5" y1="23" x2="-833.5" y2="2.9022" gradientTransform="matrix(1 0 0 1 844 -1)">
+	<stop  offset="0" style="stop-color:#F01B57"/>
+	<stop  offset="1" style="stop-color:#D31147"/>
+</linearGradient>
+<rect y="2" fill="url(#SVGID_2_)" width="21" height="20"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-895.5" y1="23.001" x2="-895.5" y2="0.8939" gradientTransform="matrix(-1 0 0 -1 -860 24)">
+	<stop  offset="0" style="stop-color:#000000;stop-opacity:0.1"/>
+	<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+</linearGradient>
+<rect x="24" y="1" fill="url(#SVGID_3_)" width="23" height="22"/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="-833.5" y1="23" x2="-833.5" y2="2.9022" gradientTransform="matrix(1 0 0 1 844 -1)">
+	<stop  offset="0" style="stop-color:#FFFFFE;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#FFFFFE;stop-opacity:0.1"/>
+</linearGradient>
+<rect y="2" fill="url(#SVGID_4_)" width="21" height="20"/>
+</svg>

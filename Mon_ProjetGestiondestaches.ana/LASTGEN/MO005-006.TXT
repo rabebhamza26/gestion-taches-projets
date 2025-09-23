@@ -1,0 +1,3 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Projet		NFI		nouveau fichier
+Projet	Statut	RRM		

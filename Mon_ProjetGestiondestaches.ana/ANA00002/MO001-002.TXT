@@ -1,0 +1,5 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+inscription		NFI		nouveau fichier
+Utilisateur		FIC-	Utilisateur	Fichier supprimé Utilisateur
+inscription	Mot_De_Passe	RRN		
+inscription	Email	RRN		
