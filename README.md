@@ -1,6 +1,7 @@
 🗂️ Application Web de Gestion des Tâches de Projets en WebDev
 
-📌 Description
+📌 Description : 
+
 Application web développée avec WebDev pour la gestion des tâches de projets informatiques.
 Elle permet de centraliser la planification, le suivi et la coordination entre les différents utilisateurs : 
 - 👩‍💼 Administrateurs
